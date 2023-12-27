@@ -1,0 +1,13 @@
+.search-bar {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 10px;
+    display: block;
+    margin: 10px;
+    min-width: 370px;
+}
+
+.search-bar input {
+    width: calc(100% - 70px);
+}
+
